@@ -1,4 +1,4 @@
-postgresl_dart
+postgresql_dart
 ==============
 
 Driver postgresql for Dart
