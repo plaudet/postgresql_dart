@@ -10,3 +10,10 @@ g++ -O2 -DDART_SHARED_LIB -I/home/<user>/dart/dart-sdk/include -rdynamic -fPIC -
 
 Test Command
 ============
+
+Execute buildntest.sh
+
+Google Group
+============
+
+https://groups.google.com/forum/?hl=en&fromgroups#!forum/dart-connector-for-postgres
